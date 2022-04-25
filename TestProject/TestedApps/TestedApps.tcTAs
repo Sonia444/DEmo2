@@ -10,7 +10,7 @@
 					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
 					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
 					<param name="Debug" parameters="" workFolder="" />
-					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\dell\Documents\TestComplete 15 Projects\projectDemo1\TestProject\TestedApps\" parameters="" workFolder="" />
+					<param name="Simple" fileName="Orders.exe" filePath="" parameters="" workFolder="" />
 				</runModeParams>
 			</config>
 			<testData />
